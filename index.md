@@ -15,4 +15,4 @@ I would like to analyze and try to identify which genes are associated with Schi
 I would like to set up a more connected code space as we are all currently programming in different places.
 
 **What other techniques would you be interested in using in your project?**  
-I would be interested in maybe incorporating an aspect of Machine learning into our project although I'm not sure how yet.
+I would be interested in maybe incorporating an aspect of Machine learning into our project, although I'm not quite sure how yet.
