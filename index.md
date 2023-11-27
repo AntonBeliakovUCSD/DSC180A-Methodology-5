@@ -1,4 +1,4 @@
-#DSC180 Capstone Project
+# DSC180 Capstone Project
 
 Name: Anton Beliakov  
 Email: abeliako@ucsd.edu  
